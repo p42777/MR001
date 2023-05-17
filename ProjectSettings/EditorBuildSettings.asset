@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - Solvers/Scenes/SurfaceMagnetismSpatialAwarenessExample.unity
+    guid: 8feae87497f549c4e8dc08a6e4b7b15c
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - Solvers/Scenes/DirectionalIndicatorSolverExample.unity
+    guid: 4c78d9cf1eaba1d42b902e09f6eabf6e
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Experimental - MixedRealityKeyboard/Scenes/MixedRealityKeyboardExample.unity
+    guid: b21a91f417fdc7b41b531772ff092fcb
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - Solvers/Scenes/SolverExamples.unity
+    guid: ddad3c804e095ab418ae445c5990b658
+  - enabled: 0
+    path: Assets/Scenes/test/1.unity
+    guid: 857a83f6b2598c541965629a7adffc8b
+  - enabled: 0
+    path: Assets/Scenes/test/2.unity
+    guid: 657748db111b23e439866de0a782f877
+  - enabled: 0
+    path: Assets/Scenes/test/3.unity
+    guid: c5ee8b95da424fd45b1146d6ce4a70e4
+  - enabled: 0
+    path: Assets/Scenes/test/4.unity
+    guid: 4f24d36456dfc3346ab054c2d201357c
+  - enabled: 0
+    path: Assets/Scenes/test/5.unity
+    guid: eb390e3f47cecfe4d9a8b488559b9d6f
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - EyeTracking/Scenes/EyeTrackingDemo-00-RootScene.unity
+    guid: 27c3fbe0128089f48994cdc6af8668fc
+  - enabled: 0
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - EyeTracking/Scenes/EyeTrackingDemo-01-BasicSetup.unity
+    guid: 3ac2cf3aa0e281340babd2053d8b7d46
+  - enabled: 1
+    path: Assets/Scenes/UI/0.unity
+    guid: 161c941bca5f66e4dbc05b208ebc2ca7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UI/Deposit.unity
+    guid: 313de8e7f8519e94494887650e9d70fc
+  - enabled: 1
+    path: Assets/Scenes/UI/Withdraw.unity
+    guid: 269022d800d0c3840973a899a0691c81
+  - enabled: 1
+    path: Assets/Scenes/UI/Open.unity
+    guid: 6ba413ab4f4b3174085d9db36df7aeb3
+  - enabled: 1
+    path: Assets/Scenes/UI/Transfer.unity
+    guid: 8bd898a88b401c9459a20be1ec78ad0e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 251394075a9045d468d931fa629089e3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 617291b75703e7e4596bc664842af724, type: 2}
