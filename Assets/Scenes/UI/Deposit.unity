@@ -1470,8 +1470,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.7
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -5655,8 +5655,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -11445,8 +11445,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -13437,8 +13437,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -13820,8 +13820,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -14143,8 +14143,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
@@ -17524,8 +17524,8 @@ MonoBehaviour:
   faceUserDefinedTargetTransform: 0
   targetToFace: {fileID: 0}
   pivotAxis: 7
-  minDistance: 0.2
-  maxDistance: 0.8
+  minDistance: 0.3
+  maxDistance: 0.9
   defaultDistance: 0.5
   maxViewHorizontalDegrees: 30
   maxViewVerticalDegrees: 20
